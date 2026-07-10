@@ -44,8 +44,8 @@
 35101,0,'Villemur-Sur-Tarn',351
 35200,0,'Toulouse',352
 35201,0,'Villematier',352
-35301,0,'Balma/Bessieres',353
-35300,0,'Bessieres/Balma',353
+35300,0,'Balma',353
+35301,0,'Bessieres',353
 35401,0,'Buzet Sur Tarn',354
 35400,0,'Toulouse',354
 35500,0,'Toulouse',355
@@ -92,14 +92,14 @@
 38801,0,'Verdun',388
 39101,0,'Alan',391
 39100,0,'Saint-Gaudens',391
-39200,0,'Moncaup/St-Gaudens',392
-39201,0,'St-Gaudens/Moncaup',392
-39300,0,'Melles/St-Gaudens',393
-39301,0,'St-Gaudens/Melles',393
+39201,0,'Moncaup',392
+39200,0,'Saint-Gaudens',392
+39301,0,'Melles',393
+39300,0,'Saint-Gaudens',393
 39401,0,'Bagneres-De-Luchon',394
 39400,0,'Saint-Gaudens',394
-39500,0,'Les/St-Gaudens',395
-39501,0,'St-Gaudens/Les',395
+39501,0,'Les',395
+39500,0,'Saint-Gaudens',395
 39701,0,'Mane',397
 39700,0,'Saint-Gaudens',397
 39801,0,'Montrejeau',398

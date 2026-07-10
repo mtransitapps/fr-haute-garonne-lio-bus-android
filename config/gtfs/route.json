@@ -3,6 +3,13 @@
     "use_route_short_name_for_route_id": true,
     "default_route_long_name_enabled": true,
     "direction_finder_enabled": true,
+    "direction_headsign_cleaners": [
+        {
+            "regex": "(?U)^(([^/]+/\\s+)+([^/]+))",
+            "replacement": "$3",
+            "comment": "Keep only after last '/'"
+        }
+    ],
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [
         {
